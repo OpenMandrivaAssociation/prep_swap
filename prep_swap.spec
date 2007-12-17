@@ -12,7 +12,6 @@ Source0:	http://www.ltsp.org/tarballs/%{name}-%{version}.tar.bz2
 BuildRequires:	uClibc-popt-devel
 BuildRequires:	uClibc-devel
 BuildRequires:	uClibc-static-devel
-BuildRoot:	%{_tmppath}/%{name}-%{version}-root
 
 %description
 This daemon will run on a workstation, listening on a port (9200) for a command
