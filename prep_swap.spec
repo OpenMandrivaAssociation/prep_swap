@@ -4,7 +4,7 @@
 Summary:	Tool to prepare swap for LTSP
 Name:		prep_swap
 Version:	0.02
-Release:	%mkrel 6
+Release:	7
 License:	GPL
 Group:		System/Servers
 URL:		https://www.ltsp.org
